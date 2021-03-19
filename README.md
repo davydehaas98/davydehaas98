@@ -1,6 +1,9 @@
 <div align="center">
     <img width="100" src="https://davydehaas.nl/assets/images/memoji.png" alt="Me">
-    <h1>Hi there, I'm Davy! 🍺</h1>
+    <h1>About</h1>
+    <p>Hi there, I'm Davy! 🍺</p>
+    <p>I am a graduated software engineer from Fontys University of Applied Sciences.</p>
+    <p>You can find all sorts of projects I currently, or have been working on, on this GitHub page</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
         <img width="50" src="https://davydehaas.nl/assets/images/contact/linkedin.svg" alt="LinkedIn">
     </a>
@@ -25,7 +28,7 @@
     </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <h2>Pinned Repositories</h2>
     <a href="https://github.com/davydehaas98/davydehaas.nl" target="_blank" rel="noopener noreferrer">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=davydehaas98&repo=davydehaas.nl&show_owner=true&theme=algolia">
@@ -45,4 +48,4 @@
     <a href="https://github.com/davydehaas98/reverse-proxy" target="_blank" rel="noopener noreferrer">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=davydehaas98&repo=reverse-proxy&show_owner=true&theme=algolia">
     </a>
-</div>
+</div> -->

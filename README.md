@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-    <h2>My Stats</h2>
+    <h1>Stats</h1>
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davydehaas98&theme=algolia&count_private=true&layout=compact" alt="My top languages"/>
     </p>

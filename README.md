@@ -3,7 +3,7 @@
     <h1>About</h1>
     <p>Hi there, I'm Davy! 🍺</p>
     <p>I am a MSc Computer Sciences and Engineering student at Eindhoven University of Technology.</p>
-    <p>You can find all sorts of projects I currently, or have been working on, on this GitHub page.</p>
+    <p>You can find all sorts of projects I am working on, on this GitHub page.</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
         <img width="50" src="https://davydehaas.nl/assets/images/contact/linkedin.svg" alt="LinkedIn">
     </a>

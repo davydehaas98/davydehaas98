@@ -2,7 +2,7 @@
     <img width="100" src="https://davydehaas.nl/assets/images/memoji.png" alt="Me">
     <h1>About</h1>
     <p>Hi there, I'm Davy! 🍺</p>
-    <p>I am a Java Software Engineer at ISAAC (becoming iO) in Eindhoven, The Netherlands.</p>
+    <p>I am a Java Software Engineer at ISAAC in Eindhoven, The Netherlands.</p>
     <p>You can find most of the projects I am working on, on this GitHub page.</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
         <img width="50" src="https://davydehaas.nl/assets/images/contact/linkedin.svg" alt="LinkedIn">

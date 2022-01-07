@@ -18,13 +18,13 @@
 <div align="center">
     <h1>Stats</h1>
     <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davydehaas98&theme=algolia&count_private=true&layout=compact" alt="My top languages"/>
+    </p>
+    <p>
         <img src="https://github-readme-stats.vercel.app/api?username=davydehaas98&theme=algolia&show_icons=true&count_private=true" alt="My GitHub stats"/>
     </p>
     <p>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=davydehaas98&theme=algolia" alt="My Wakatime stats">
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davydehaas98&theme=algolia&count_private=true&layout=compact" alt="My top languages"/>
     </p>
 </div>
 

@@ -3,7 +3,7 @@
     <h1>About</h1>
     <p>Hi there, I'm Davy! 🍺</p>
     <p>I am a Java Software Developer at iO in Eindhoven, The Netherlands.</p>
-    <p>You can find most of the projects I am working on, on this GitHub page.</p>
+    <p>You can find some of my personal projects here on GitHub.</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
         <img width="50" src="https://davydehaas.nl/assets/images/contact/linkedin.svg" alt="LinkedIn">
     </a>

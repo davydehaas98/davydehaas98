@@ -1,8 +1,7 @@
 <div align="center">
     <img width="100" src="https://davydehaas.nl/assets/images/memoji.png" alt="Me">
     <h1>About</h1>
-    <p>Hi there, I'm Davy! 🍺</p>
-    <p>I am a Java Software Developer at iO in Eindhoven, The Netherlands.</p>
+    <p>Hi there! I am Davy, a Java Software Developer at iO in Eindhoven, The Netherlands.</p>
     <p>You can find some of my personal projects here on GitHub.</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
         <img width="50" src="https://davydehaas.nl/assets/images/contact/linkedin.svg" alt="LinkedIn">
@@ -27,25 +26,3 @@
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=davydehaas98&theme=algolia" alt="My Wakatime stats">
     </p>
 </div>
-
-<!-- <div align="center">
-    <h2>Pinned Repositories</h2>
-    <a href="https://github.com/davydehaas98/davydehaas.nl" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=davydehaas98&repo=davydehaas.nl&show_owner=true&theme=algolia">
-    </a>
-    <a href="https://github.com/davydehaas98/project-euler" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=davydehaas98&repo=project-euler&show_owner=true&theme=algolia">
-    </a>
-    <a href="https://github.com/davydehaas98/server" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=davydehaas98&repo=server&show_owner=true&theme=algolia">
-    </a>
-    <a href="https://github.com/davydehaas98/media-server" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=davydehaas98&repo=media-server&show_owner=true&theme=algolia">
-    </a>
-    <a href="https://github.com/davydehaas98/vcs7-visualization" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=davydehaas98&repo=vcs7-visualization&show_owner=true&theme=algolia">
-    </a>
-    <a href="https://github.com/davydehaas98/reverse-proxy" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=davydehaas98&repo=reverse-proxy&show_owner=true&theme=algolia">
-    </a>
-</div> -->

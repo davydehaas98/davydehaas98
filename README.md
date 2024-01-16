@@ -4,10 +4,10 @@
     <h1>About</h1>
     <p>Hi there! I am Davy, a Software Engineer at iO Campus Eindhoven, The Netherlands.</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
-        <img width="50" src="https://davydehaas.nl/assets/images/contact/linkedin.svg" alt="LinkedIn">
+        <img width="50" src="linkedin.svg" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/davydehaas98" target="_blank" rel="noopener noreferrer">
-        <img width="50" src="https://davydehaas.nl/assets/images/contact/twitter.svg" alt="Twitter">
+        <img width="50" src="twitter.svg" alt="Twitter">
     </a>
 </div>
 

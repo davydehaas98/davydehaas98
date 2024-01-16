@@ -1,5 +1,6 @@
 <div align="center">
-    <img width="100" src="https://davydehaas.nl/assets/images/memoji.png">
+<!--     <img width="100" src="https://davydehaas.nl/assets/images/memoji.png"> -->
+    <img width="100" src="https://avatars.githubusercontent.com/u/31407144?v=4">
     <h1>About</h1>
     <p>Hi there! I am Davy, a Software Engineer at iO Campus Eindhoven, The Netherlands.</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">

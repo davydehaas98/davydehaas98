@@ -12,11 +12,16 @@
 </div>
 
 <div align="center">
-    <h1>Stats</h1>
+    <h1>Statisticss</h1>
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davydehaas98&theme=algolia&count_private=true&layout=compact" alt="My top languages"/>
     </p>
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=davydehaas98&theme=algolia&show_icons=true&count_private=true" alt="My GitHub stats"/>
     </p>
+</div>
+
+<div>
+    <h1>Certifications</h1>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="22d29734-87a6-4e42-aed2-70c66ac34eb3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>

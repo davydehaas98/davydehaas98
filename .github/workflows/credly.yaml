@@ -1,0 +1,12 @@
+name: update-credly-badges
+on:
+  schedule:
+    - cron: "0 2 * * *"
+jobs:
+  update-credly-badges:
+    name: Update Credly badges
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Update Credly badges
+        uses: pemtajo/badge-readme@2.4.0
+        

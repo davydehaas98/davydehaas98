@@ -1,7 +1,7 @@
 <div align="center">
     <img width="100" src="https://avatars.githubusercontent.com/u/31407144?v=4">
     <h1>About</h1>
-    <p>Hi there! My name is Davy and I am a Software Engineer at iO Campus Eindhoven, The Netherlands.</p>
+    <p>Hi! My name is Davy and I am a Software Engineer at iO Campus Eindhoven, The Netherlands.</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
         <img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn">
     </a>

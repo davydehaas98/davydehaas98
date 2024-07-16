@@ -1,8 +1,8 @@
 name: update-credly-badges
-on:
-  push
-  # schedule:
-  #   - cron: '0 2 * * *'
+on: 
+  push:
+  schedule:
+    - cron: '0 2 * * *'
 jobs:
   update-credly-badges:
     name: Update Credly badges
@@ -10,4 +10,5 @@ jobs:
     steps:
       - name: Update Credly badges
         uses: pemtajo/badge-readme@2.4.0
-        
+        with:
+          CREDLY_USER: davy-de-haas        

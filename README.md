@@ -1,5 +1,4 @@
 <div align="center">
-<!--     <img width="100" src="https://davydehaas.nl/assets/images/memoji.png"> -->
     <img width="100" src="https://avatars.githubusercontent.com/u/31407144?v=4">
     <h1>About</h1>
     <p>Hi there! My name is Davy and I am a Software Engineer at iO Campus Eindhoven, The Netherlands.</p>
@@ -23,6 +22,6 @@
 
 <div>
     <h1>Certifications</h1>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="22d29734-87a6-4e42-aed2-70c66ac34eb3" data-share-badge-host="https://www.credly.com" />
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js" />
+    <!--START_SECTION:badges-->
+    <!--END_SECTION:badges-->
 </div>

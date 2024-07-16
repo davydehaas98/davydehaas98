@@ -23,5 +23,6 @@
 
 <div>
     <h1>Certifications</h1>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="22d29734-87a6-4e42-aed2-70c66ac34eb3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="22d29734-87a6-4e42-aed2-70c66ac34eb3" data-share-badge-host="https://www.credly.com" />
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js" />
 </div>

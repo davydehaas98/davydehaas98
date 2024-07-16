@@ -13,4 +13,5 @@ jobs:
       - name: Update Credly badges
         uses: pemtajo/badge-readme@2.4.0
         with:
-          CREDLY_USER: davy-de-haas        
+          CREDLY_USER: davy-de-haas
+          BADGE_SIZE: 150

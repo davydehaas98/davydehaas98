@@ -1,7 +1,8 @@
 name: update-credly-badges
 on:
-  schedule:
-    - cron: "27 13 * * *"
+  push
+  # schedule:
+  #   - cron: '0 2 * * *'
 jobs:
   update-credly-badges:
     name: Update Credly badges

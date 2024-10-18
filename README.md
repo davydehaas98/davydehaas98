@@ -5,9 +5,6 @@
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
         <img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/davydehaas98" target="_blank" rel="noopener noreferrer">
-        <img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter">
-    </a>
 </div>
 
 <div align="center">

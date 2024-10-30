@@ -2,8 +2,11 @@
     <img width="100" src="https://avatars.githubusercontent.com/u/31407144?v=4">
     <h1>About</h1>
     <p>Hi! My name is Davy and I am a Software Engineer at iO Campus Eindhoven, The Netherlands.</p>
-    <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
-        <img width="50" src="linkedin.svg" alt="LinkedIn">
+    <a href="https://github.com/davydehaas98" target="_blank" rel="noopener noreferrer">
+        <img width="64" height="64" src="github.svg" alt="GitHub">
+    </a>
+    <a href="https://linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
+        <img width="64" height="64" src="linkedin.svg" alt="LinkedIn">
     </a>
 </div>
 
@@ -27,6 +30,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=davydehaas98&theme=algolia&show_icons=true&count_private=true" alt="My GitHub stats"/>
     </p>
     <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davydehaas98&theme=algolia" alt="My GitHub streak" /></p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davydehaas98&theme=algolia" alt="My GitHub streak stats" /></p>
     </p>
 </div>

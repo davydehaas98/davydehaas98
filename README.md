@@ -3,7 +3,7 @@
     <h1>About</h1>
     <p>Hi! My name is Davy and I am a Software Engineer at iO Campus Eindhoven, The Netherlands.</p>
     <a href="https://www.linkedin.com/in/davydehaas98" target="_blank" rel="noopener noreferrer">
-        <img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn">
+        <img width="50" src="linkedin.svg" alt="LinkedIn">
     </a>
 </div>
 

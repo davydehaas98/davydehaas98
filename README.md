@@ -2,10 +2,10 @@
     <img width="100" src="https://avatars.githubusercontent.com/u/31407144?v=4">
     <h1>About</h1>
     <p>Hi! My name is Davy and I am a Software Engineer at iO Campus Eindhoven, The Netherlands.</p>
-    <a href="https://github.com/davydehaas98" target="_blank" rel="noreferrer" width="64" height="64">
+    <a href="https://github.com/davydehaas98" target="_blank" rel="noreferrer">
         <img src="github.svg" alt="GitHub" width="64" height="64" />
     </a>
-    <a href="https://linkedin.com/in/davydehaas98" target="_blank" rel="noreferrer" width="64" height="64">
+    <a href="https://linkedin.com/in/davydehaas98" target="_blank" rel="noreferrer">
         <img src="linkedin.svg" alt="LinkedIn" width="64" height="64" />
     </a>
 </div>
@@ -31,5 +31,23 @@
     </p>
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davydehaas98&theme=algolia" alt="My GitHub streak stats" /></p>
+    </p>
+</div>
+
+<div align="center">
+    <h1>Pinned Repositories</h1>
+    <p>
+        <a href="https://github.com/davydehaas98/homelab" target="_blank" rel="noreferrer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=davydehaas98&repo=homelab&theme=algolia" />
+        </a>
+        <a href="https://github.com/davydehaas98/media-server" target="_blank" rel="noreferrer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=davydehaas98&repo=homelab&theme=algolia" />
+        </a>
+        <a href="https://github.com/davydehaas98/advent-of-code" target="_blank" rel="noreferrer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=davydehaas98&repo=advent-of-code&theme=algolia" />
+        </a>
+        <a href="https://github.com/davydehaas98/project-euler" target="_blank" rel="noreferrer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=davydehaas98&repo=project-euler&theme=algolia" />
+        </a>
     </p>
 </div>

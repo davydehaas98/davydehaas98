@@ -40,8 +40,8 @@
         <a href="https://github.com/davydehaas98/homelab" target="_blank" rel="noreferrer">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=davydehaas98&repo=homelab&theme=algolia" />
         </a>
-        <a href="https://github.com/davydehaas98/media-server" target="_blank" rel="noreferrer">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=davydehaas98&repo=media-server&theme=algolia" />
+        <a href="https://github.com/davydehaas98/home-server" target="_blank" rel="noreferrer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=davydehaas98&repo=home-server&theme=algolia" />
         </a>
         <a href="https://github.com/davydehaas98/advent-of-code" target="_blank" rel="noreferrer">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=davydehaas98&repo=advent-of-code&theme=algolia" />

@@ -1,7 +1,11 @@
 name: Update Credly badges
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 4 * * *'
+  workflow_dispatch:
 jobs:
   update-credly-badges:
     name: Update Credly badges

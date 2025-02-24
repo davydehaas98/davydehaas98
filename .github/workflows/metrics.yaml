@@ -1,4 +1,4 @@
-name: Update Credly badges
+name: Update metrics
 on:
   push:
     branches:
@@ -7,11 +7,11 @@ on:
     - cron: '0 4 * * *'
   workflow_dispatch:
 jobs:
-  update-credly-badges:
+  update-metrics:
     name: Update metrics
     runs-on: ubuntu-24.04
     steps:
-      - name: Metrics embed
+      - name: Embed metrics
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}

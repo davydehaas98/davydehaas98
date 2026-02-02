@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Update Credly badges
-        uses: pemtajo/badge-readme@8f043294cd2980135ba6efb91b2b8cd64e280924 # 2.4.0
+        uses: pemtajo/badge-readme@ca8a01f1f2a35ed8bd451942c965a6229ca6c198 # 3.1.1
         with:
           CREDLY_USER: davy-de-haas
           BADGE_SIZE: 200

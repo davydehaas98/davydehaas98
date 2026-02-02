@@ -15,4 +15,4 @@ jobs:
         uses: pemtajo/badge-readme@ca8a01f1f2a35ed8bd451942c965a6229ca6c198 # 3.1.1
         with:
           CREDLY_USER: davy-de-haas
-          BADGE_SIZE: 200
+          NUMBER_LAST_BADGES: 10

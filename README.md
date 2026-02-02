@@ -14,9 +14,9 @@
     <h1>Certifications</h1>
     
 <!--START_SECTION:badges-->
-[![Okta dev{camps} CIAM Camper](https://images.credly.com/size/200x200/images/e79a4cee-1da2-4844-b8af-a2331a53652d/image.png)](http://www.credly.com/badges/769af9df-a436-421f-9da1-a406d8aef4c8 "Okta dev{camps} CIAM Camper")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/200x200/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/503b8b2f-2084-4c4a-adae-7fa828b2be9f "AWS Certified Developer – Associate")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/22d29734-87a6-4e42-aed2-70c66ac34eb3 "AWS Certified Cloud Practitioner")
+<a href="https://www.credly.com/badges/769af9df-a436-421f-9da1-a406d8aef4c8" title="Okta dev{camps} CIAM Camper"><img src="https://images.credly.com/size/80x80/images/e79a4cee-1da2-4844-b8af-a2331a53652d/image.png" alt="Okta dev{camps} CIAM Camper" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/503b8b2f-2084-4c4a-adae-7fa828b2be9f" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/22d29734-87a6-4e42-aed2-70c66ac34eb3" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 </div>
